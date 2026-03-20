@@ -1,0 +1,3 @@
+requests
+numpy
+benczutils @ git+https://github.com/Benczusch/benczutils
